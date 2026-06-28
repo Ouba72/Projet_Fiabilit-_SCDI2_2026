@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet a été réalisé dans le cadre du cours **Pratique de la fiabilité** à l'ISUP (Université Paris Cité).
+Ce projet a été réalisé dans le cadre du cours **Pratique de la fiabilité** à l'ISUP (Sorbonne Université).
 
 L'objectif est de déterminer la hauteur optimale d'une digue protégeant une installation industrielle située en bordure d'une rivière. Le problème est étudié selon trois approches complémentaires :
 
